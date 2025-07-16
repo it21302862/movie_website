@@ -8,8 +8,9 @@ A fully responsive and interactive movie website built with React.js and Bootstr
 ![Home Page](https://github.com/it21302862/movie_website/blob/main/public/assets/project/home.png)
 ![Movie Trailer](https://github.com/it21302862/movie_website/blob/main/public/assets/project/home2.png)
 ![Movie Filter](https://github.com/it21302862/movie_website/blob/main/public/assets/project/filter.png)
-![Blog Page](https://github.com/it21302862/movie_website/blob/main/public/assets/project/our_blog.png)
 ![Upcoming Movies](https://github.com/it21302862/movie_website/blob/main/public/assets/project/coming_soon.png)
+![Blog Page](https://github.com/it21302862/movie_website/blob/main/public/assets/project/our_blog.png)
+
 
 
 📦 Installation
