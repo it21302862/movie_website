@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Top 5 Must-Watch Sci-Fi Movies in 2025",
+    "category": "Movie List",
+    "thumbnail": "./assets/blogs/scifi-2025.jpg",
+    "date": "2025-07-10",
+    "author": {
+      "name": "Jessica Lane",
+      "image": "./assets/authors/jessica.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Behind the Scenes of ‘Oppenheimer’: Secrets You Missed",
+    "category": "Behind The Scenes",
+    "thumbnail": "./assets/blogs/oppenheimer-bts.jpg",
+    "date": "2025-06-20",
+    "author": {
+      "name": "David Kim",
+      "image": "./assets/authors/david.png"
+    }
+  },
+  {
+    "id": 3,
+    "title": "The Rise of Margot Robbie: A Look at Her Top Performances",
+    "category": "Celebrity Spotlight",
+    "thumbnail": "./assets/blogs/margot-robbie.jpg",
+    "date": "2025-06-30",
+    "author": {
+      "name": "Ava Thomas",
+      "image": "./assets/authors/ava.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Why ‘Dune Part 2’ Could Be the Best Sci-Fi Sequel Ever",
+    "category": "Reviews",
+    "thumbnail": "./assets/blogs/dune2-review.jpg",
+    "date": "2025-07-01",
+    "author": {
+      "name": "Ryan Cooper",
+      "image": "./assets/authors/ryan.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Upcoming Movies in August 2025 You Shouldn’t Miss",
+    "category": "Coming Soon",
+    "thumbnail": "./assets/blogs/august-releases.jpg",
+    "date": "2025-07-14",
+    "author": {
+      "name": "Emily Fox",
+      "image": "./assets/authors/emily.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "title": "How Marvel Plans to Reboot the X-Men in Phase 6",
+    "category": "News",
+    "thumbnail": "./assets/blogs/marvel-xmen.jpg",
+    "date": "2025-07-11",
+    "author": {
+      "name": "Luke Harris",
+      "image": "./assets/authors/luke.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "title": "The Return of Cinema: Are Movie Theaters Making a Comeback?",
+    "category": "Industry",
+    "thumbnail": "./assets/blogs/cinema-comeback.jpg",
+    "date": "2025-05-28",
+    "author": {
+      "name": "Sophia Bennett",
+      "image": "./assets/authors/sophia.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Everything You Need to Know About Christopher Nolan’s Directing Style",
+    "category": "Director Focus",
+    "thumbnail": "./assets/blogs/nolan-style.jpg",
+    "date": "2025-06-10",
+    "author": {
+      "name": "James Walker",
+      "image": "./assets/authors/james.jpg"
+    }
+  }
+]
