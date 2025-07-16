@@ -1,11 +1,19 @@
 🎬 Cinema React Website
+
 A fully responsive and interactive movie website built with React.js and Bootstrap. Explore movies, read blogs, filter by category, and watch trailers — all in one sleek UI.
 
 📸 Demo
-![Demo Screenshot](./assets/projects/home_main.png)
+
+![Demo Screenshots](https://github.com/it21302862/movie_website/blob/main/public/assets/project/home_main.png)
+![Home Page](https://github.com/it21302862/movie_website/blob/main/public/assets/project/home.png)
+![Movie Trailer](https://github.com/it21302862/movie_website/blob/main/public/assets/project/home2.png)
+![Movie Filter](https://github.com/it21302862/movie_website/blob/main/public/assets/project/filter.png)
+![Blog Page](https://github.com/it21302862/movie_website/blob/main/public/assets/project/our_blog.png)
+![Upcoming Movies](https://github.com/it21302862/movie_website/blob/main/public/assets/project/coming_soon.png)
 
 
 📦 Installation
+
 Clone the repository:
 ```
 https://github.com/it21302862/movie_website.git
@@ -36,6 +44,8 @@ Open http://localhost:3000 in your browser.
 🎯 Category Filters (Action, Drama, Sci-Fi, etc.)
 
 📱 Responsive UI with Bootstrap grid & utility classes
+
+
 
 
 🔧 Tech Stack
